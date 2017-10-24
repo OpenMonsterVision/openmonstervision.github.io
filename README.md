@@ -1,2 +1,2 @@
 # openmonstervision.github.io
-HomePage
+to the <a href="https://openmonstervision.github.io/blog/">blog</a>
